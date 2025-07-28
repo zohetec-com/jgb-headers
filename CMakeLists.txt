@@ -14,4 +14,5 @@ install(FILES
       	include/helper.h
        	include/app.h
        	include/core.h
+       	include/buffer.h
        	DESTINATION include/jgb)
