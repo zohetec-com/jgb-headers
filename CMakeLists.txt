@@ -15,4 +15,6 @@ install(FILES
        	include/app.h
        	include/core.h
        	include/buffer.h
+       	misc/check_u32_context.h
+       	misc/write_32u_context.h
        	DESTINATION include/jgb)
